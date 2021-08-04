@@ -18,7 +18,7 @@ This repository contains the theoretical summary of concepts and practical imple
 
 [**M1**](Lab-Sessions/M1_Week3-Python-I): Printing, Inputting, Variables, Simple data types, Operators, String processing, Loop and conditional blocks, Functions.
 
-[**M2**](Lab Sessions/M2_Week 5 - Python II): Lists, Tuples, Sets, Dicts, Modules, File Handling, Classes, Magic commands.
+[**M2**](Lab-Sessions/M2_Week5-Python-II): Lists, Tuples, Sets, Dicts, Modules, File Handling, Classes, Magic commands.
 
 M3: Vector arithmetic with Numpy, Relational data with Pandas, Plots with Seaborn.
 
