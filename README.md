@@ -1,4 +1,4 @@
-z# Foundations-of-Data-Science
+# Foundations-of-Data-Science
 
 This repository contains the theoretical summary of concepts and practical implementation of the topics covered in the course I did on **Foundations of Data Science** from [**PadhAI - One Fourth Labs.**](https://padhai.onefourthlabs.in/courses/data-science)
 
@@ -26,6 +26,6 @@ This repository contains the theoretical summary of concepts and practical imple
 
 [**M5**](Lab-Sessions/M05_Week11-Visualization): Descriptive Statistics - Computing measures of statistics, Visualization with different plot styles.
 
-[**M6**](Lab-Sessions/M06_Week13-Case Study): Probablistic aspects such as Sampling distributions, demonstrating Central Limit Theorem.
+[**M6**](Lab-Sessions/M06_Week13-Case_Study): Probablistic aspects such as Sampling distributions, demonstrating Central Limit Theorem.
 
-[**M7**](Lab-Sessions/M07_Week22-Hypothesis Testing): Hypothesis testing on single sample (mean, variance, proportion), on two populations with known and unknown mean. Analysis of variance with one and two factors. Linear Regression.
+[**M7**](Lab-Sessions/M07_Week22-Hypothesis_Testing): Hypothesis testing on single sample (mean, variance, proportion), on two populations with known and unknown mean. Analysis of variance with one and two factors. Linear Regression.
