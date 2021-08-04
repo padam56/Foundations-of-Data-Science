@@ -1,6 +1,6 @@
 # Foundations-of-Data-Science
 
-This repository contains the theoretical summary of concepts and practical implementation of the topics covered in the course I did on **Foundations of Data Science** from [**PadhAI - One Fourth Labs.**](https://padhai.onefourthlabs.in/courses/data-science)
+This repository contains the theoretical summary of concepts and practical implementation of the topics covered in the course I did on **Foundations of Data Science** from [**PadhAI - One Fourth Labs.**](https://padhai.onefourthlabs.in/courses/data-science) taught by IIT Madras faculty.
 
 ![PadhAI](Images/padhai.png)
 
