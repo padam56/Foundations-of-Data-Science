@@ -1,4 +1,4 @@
-# Foundations-of-Data-Science
+z# Foundations-of-Data-Science
 
 This repository contains the theoretical summary of concepts and practical implementation of the topics covered in the course I did on **Foundations of Data Science** from [**PadhAI - One Fourth Labs.**](https://padhai.onefourthlabs.in/courses/data-science)
 
@@ -16,13 +16,13 @@ This repository contains the theoretical summary of concepts and practical imple
 
 ### Overview of Lab Session Modules with Python:
 
-[**M1**](Lab-Sessions/M01_Week3-Python-I): Printing, Inputting, Variables, Simple data types, Operators, String processing, Loop and conditional blocks, Functions.
+[**M1**](Lab-Sessions/M01_Week03-Python-I): Printing, Inputting, Variables, Simple data types, Operators, String processing, Loop and conditional blocks, Functions.
 
-[**M2**](Lab-Sessions/M02_Week5-Python-II): Lists, Tuples, Sets, Dicts, Modules, File Handling, Classes, Magic commands.
+[**M2**](Lab-Sessions/M02_Week05-Python-II): Lists, Tuples, Sets, Dicts, Modules, File Handling, Classes, Magic commands.
 
-[**M3**](Lab-Sessions/M03_Week8-Numpy): Vector arithmetic with Numpy, Relational data with Pandas, Plots with Seaborn.
+[**M3**](Lab-Sessions/M03_Week08-Numpy): Vector arithmetic with Numpy, Relational data with Pandas, Plots with Seaborn.
 
-[**M4**](Lab-Sessions/M04_Week9&10-Pandas): Data preprocessing - Fill missing values, clean, standardise, normalise.
+[**M4**](Lab-Sessions/M04_Week09-Pandas): Data preprocessing - Fill missing values, clean, standardise, normalise.
 
 [**M5**](Lab-Sessions/M05_Week11-Visualization): Descriptive Statistics - Computing measures of statistics, Visualization with different plot styles.
 
