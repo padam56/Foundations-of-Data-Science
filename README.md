@@ -26,12 +26,6 @@ This repository contains the theoretical summary of concepts and practical imple
 
 [**M5**](Lab-Sessions/M05_Week11-Visualization): Descriptive Statistics - Computing measures of statistics, Visualization with different plot styles.
 
-[**M6**](Lab-Sessions/M06): Probablistic aspects such as Sampling distributions, demonstrating Central Limit Theorem.
+[**M6**](Lab-Sessions/M06_Week13-Case Study): Probablistic aspects such as Sampling distributions, demonstrating Central Limit Theorem.
 
-[**M7**](Lab-Sessions/M07): Hypothesis testing on single sample (mean, variance, proportion).
-
-[**M8**](Lab-Sessions/M08): Hypothesis testing on two populations with known and unknown mean.
-
-[**M9**](Lab-Sessions/M09): Analysis of variance with one and two factors.
-
-[**M10**](Lab-Sessions/M10): Linear Regression.
+[**M7**](Lab-Sessions/M07_Week22-Hypothesis Testing): Hypothesis testing on single sample (mean, variance, proportion), on two populations with known and unknown mean. Analysis of variance with one and two factors. Linear Regression.
