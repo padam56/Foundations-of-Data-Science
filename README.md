@@ -28,4 +28,4 @@ This repository contains the theoretical summary of concepts and practical imple
 
 [**M6**](Lab-Sessions/M06_Week13-Case_Study): Probablistic aspects such as Sampling distributions, demonstrating Central Limit Theorem.
 
-[**M7**](Lab-Sessions/M07_Week22-Hypothesis_Testing): Hypothesis testing on single sample (mean, variance, proportion), on two populations with known and unknown mean. Analysis of variance with one and two factors. Linear Regression.
+[**M7**](Lab-Sessions/M07_Week22-Hypothesis_Testing): Hypothesis testing on single sample (mean, variance, proportion), on two populations with known and unknown mean. Analysis of variance with one and two factors.
