@@ -20,18 +20,18 @@ This repository contains the theoretical summary of concepts and practical imple
 
 [**M2**](Lab-Sessions/M02_Week5-Python-II): Lists, Tuples, Sets, Dicts, Modules, File Handling, Classes, Magic commands.
 
-M3: Vector arithmetic with Numpy, Relational data with Pandas, Plots with Seaborn.
+[**M3**](Lab-Sessions/M03_Week8-Numpy): Vector arithmetic with Numpy, Relational data with Pandas, Plots with Seaborn.
 
-M4: Data preprocessing - Fill missing values, clean, standardise, normalise.
+[**M4**](Lab-Sessions/M04_Week9&10-Pandas): Data preprocessing - Fill missing values, clean, standardise, normalise.
 
-M5: Descriptive Statistics - Computing measures of statistics, Visualisation with different plot styles.
+[**M5**](Lab-Sessions/M05_Week11-Visualization): Descriptive Statistics - Computing measures of statistics, Visualization with different plot styles.
 
-M6: Probablistic aspects such as Sampling distributions, demonstrating Central Limit Theorem.
+[**M6**](Lab-Sessions/M06): Probablistic aspects such as Sampling distributions, demonstrating Central Limit Theorem.
 
-M7: Hypothesis testing on single sample (mean, variance, proportion).
+[**M7**](Lab-Sessions/M07): Hypothesis testing on single sample (mean, variance, proportion).
 
-M8: Hypothesis testing on two populations with known and unknown mean.
+[**M8**](Lab-Sessions/M08): Hypothesis testing on two populations with known and unknown mean.
 
-M9: Analysis of variance with one and two factors.
+[**M9**](Lab-Sessions/M09): Analysis of variance with one and two factors.
 
-M10: Linear Regression.
+[**M10**](Lab-Sessions/M10): Linear Regression.
